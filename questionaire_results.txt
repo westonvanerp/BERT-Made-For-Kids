@@ -1,0 +1,374 @@
+Question: The best way to start the day is with a [MASK].
+Fine-Tuned Model Predictions:
+ - fork: 0.0555
+ - toy: 0.0285
+ - cake: 0.0281
+ - stick: 0.0243
+ - book: 0.0240
+
+Original Model Predictions:
+ - drink: 0.0766
+ - beer: 0.0593
+ - sandwich: 0.0449
+ - book: 0.0448
+ - cigarette: 0.0394
+
+Question: When you see a big red button, you should [MASK].
+Fine-Tuned Model Predictions:
+ - know: 0.1459
+ - see: 0.0819
+ - jump: 0.0577
+ - focus: 0.0530
+ - go: 0.0380
+
+Original Model Predictions:
+ - know: 0.3468
+ - stop: 0.1458
+ - jump: 0.0429
+ - go: 0.0246
+ - run: 0.0224
+
+Question: A good friend always [MASK].
+Fine-Tuned Model Predictions:
+ - is: 0.3523
+ - helps: 0.0909
+ - be: 0.0495
+ - thanks: 0.0358
+ - was: 0.0268
+
+Original Model Predictions:
+ - was: 0.3447
+ - is: 0.1970
+ - knew: 0.0487
+ - did: 0.0475
+ - had: 0.0426
+
+Question: The sky is full of [MASK] at night.
+Fine-Tuned Model Predictions:
+ - stars: 0.3060
+ - insects: 0.1466
+ - bugs: 0.0572
+ - clouds: 0.0484
+ - snow: 0.0283
+
+Original Model Predictions:
+ - stars: 0.4379
+ - clouds: 0.2895
+ - birds: 0.0143
+ - snow: 0.0118
+ - blue: 0.0116
+
+Question: Learning can be so [MASK] if you make it fun!
+Fine-Tuned Model Predictions:
+ - fun: 0.8645
+ - dangerous: 0.0410
+ - hard: 0.0243
+ - easy: 0.0088
+ - interesting: 0.0079
+
+Original Model Predictions:
+ - easy: 0.2492
+ - fun: 0.2080
+ - good: 0.1003
+ - great: 0.0797
+ - exciting: 0.0429
+
+Question: To solve a problem, the first thing you should do is [MASK].
+Fine-Tuned Model Predictions:
+ - eat: 0.1359
+ - focus: 0.0553
+ - sleep: 0.0369
+ - try: 0.0369
+ - paint: 0.0332
+
+Original Model Predictions:
+ - think: 0.1061
+ - try: 0.0912
+ - ask: 0.0743
+ - write: 0.0498
+ - talk: 0.0373
+
+Question: When you're feeling sad, you can [MASK] to feel better.
+Fine-Tuned Model Predictions:
+ - start: 0.5748
+ - try: 0.1709
+ - begin: 0.0802
+ - pretend: 0.0757
+ - come: 0.0154
+
+Original Model Predictions:
+ - start: 0.3496
+ - begin: 0.1551
+ - try: 0.1204
+ - pretend: 0.1163
+ - expect: 0.0994
+
+Question: My favorite character in the story is [MASK] because they are so brave.
+Fine-Tuned Model Predictions:
+ - friends: 0.1816
+ - girls: 0.0868
+ - kids: 0.0759
+ - children: 0.0670
+ - babies: 0.0393
+
+Original Model Predictions:
+ - you: 0.0339
+ - them: 0.0228
+ - chosen: 0.0155
+ - heroes: 0.0150
+ - brave: 0.0143
+
+Question: When crossing the street, you should always [MASK].
+Fine-Tuned Model Predictions:
+ - stop: 0.1960
+ - hurry: 0.1620
+ - walk: 0.0586
+ - rest: 0.0561
+ - pass: 0.0472
+
+Original Model Predictions:
+ - stop: 0.2872
+ - check: 0.0895
+ - hurry: 0.0613
+ - follow: 0.0418
+ - watch: 0.0309
+
+Question: The most important rule in a classroom is to [MASK].
+Fine-Tuned Model Predictions:
+ - behave: 0.1390
+ - learn: 0.1207
+ - read: 0.0871
+ - focus: 0.0858
+ - study: 0.0669
+
+Original Model Predictions:
+ - learn: 0.0676
+ - teach: 0.0524
+ - listen: 0.0336
+ - talk: 0.0241
+ - read: 0.0233
+
+Question: If you don't understand something, it's okay to [MASK].
+Fine-Tuned Model Predictions:
+ - read: 0.3707
+ - talk: 0.0761
+ - learn: 0.0355
+ - understand: 0.0318
+ - cry: 0.0257
+
+Original Model Predictions:
+ - ask: 0.1220
+ - try: 0.0936
+ - understand: 0.0843
+ - listen: 0.0813
+ - talk: 0.0702
+
+Question: Sharing your [MASK] with others is a kind thing to do.
+Fine-Tuned Model Predictions:
+ - toys: 0.1642
+ - thoughts: 0.0810
+ - feelings: 0.0653
+ - body: 0.0356
+ - emotions: 0.0286
+
+Original Model Predictions:
+ - thoughts: 0.1383
+ - feelings: 0.0853
+ - life: 0.0552
+ - experiences: 0.0519
+ - emotions: 0.0483
+
+Question: The biggest animal in the ocean is the [MASK].
+Fine-Tuned Model Predictions:
+ - octopus: 0.1619
+ - squid: 0.1524
+ - whale: 0.1375
+ - shark: 0.0880
+ - fishes: 0.0877
+
+Original Model Predictions:
+ - squid: 0.1802
+ - shark: 0.1734
+ - whale: 0.1129
+ - octopus: 0.0780
+ - sharks: 0.0456
+
+Question: When it's time for bed, you should [MASK].
+Fine-Tuned Model Predictions:
+ - rest: 0.3524
+ - sleep: 0.2618
+ - eat: 0.0960
+ - play: 0.0312
+ - hurry: 0.0207
+
+Original Model Predictions:
+ - rest: 0.2623
+ - sleep: 0.2438
+ - eat: 0.1146
+ - know: 0.0368
+ - change: 0.0352
+
+Question: Superheroes are known for their [MASK].
+Fine-Tuned Model Predictions:
+ - bravery: 0.1777
+ - beauty: 0.1649
+ - strength: 0.1409
+ - creativity: 0.0579
+ - power: 0.0551
+
+Original Model Predictions:
+ - strength: 0.0761
+ - powers: 0.0757
+ - humor: 0.0508
+ - beauty: 0.0460
+ - intelligence: 0.0327
+
+Question: It's important to always tell the [MASK].
+Fine-Tuned Model Predictions:
+ - truth: 0.5959
+ - story: 0.1157
+ - teacher: 0.0861
+ - tale: 0.0131
+ - rules: 0.0112
+
+Original Model Predictions:
+ - truth: 0.8618
+ - story: 0.0784
+ - tale: 0.0155
+ - difference: 0.0150
+ - stories: 0.0031
+
+Question: If you're feeling scared, just [MASK].
+Fine-Tuned Model Predictions:
+ - relax: 0.2284
+ - ask: 0.0887
+ - try: 0.0847
+ - go: 0.0734
+ - be: 0.0669
+
+Original Model Predictions:
+ - go: 0.1955
+ - relax: 0.1889
+ - stay: 0.0681
+ - stop: 0.0650
+ - listen: 0.0623
+
+Question: The wheels on the bus go [MASK].
+Fine-Tuned Model Predictions:
+ - faster: 0.7170
+ - away: 0.0424
+ - down: 0.0319
+ - up: 0.0245
+ - off: 0.0235
+
+Original Model Predictions:
+ - off: 0.2081
+ - up: 0.1230
+ - silent: 0.0820
+ - crazy: 0.0472
+ - over: 0.0464
+
+Question: To bake a cake, you first need [MASK].
+Fine-Tuned Model Predictions:
+ - to: 0.1051
+ - water: 0.0985
+ - milk: 0.0883
+ - ingredients: 0.0718
+ - sugar: 0.0545
+
+Original Model Predictions:
+ - it: 0.2866
+ - one: 0.1122
+ - food: 0.0532
+ - to: 0.0474
+ - ingredients: 0.0327
+
+Question: A rainbow has many beautiful [MASK].
+Fine-Tuned Model Predictions:
+ - colors: 0.8438
+ - shapes: 0.0211
+ - flowers: 0.0190
+ - things: 0.0163
+ - stars: 0.0076
+
+Original Model Predictions:
+ - colors: 0.3075
+ - things: 0.0483
+ - colours: 0.0323
+ - qualities: 0.0308
+ - features: 0.0287
+
+Question: When someone falls down, you should [MASK].
+Fine-Tuned Model Predictions:
+ - help: 0.1623
+ - stop: 0.0865
+ - jump: 0.0667
+ - hurry: 0.0579
+ - see: 0.0375
+
+Original Model Predictions:
+ - know: 0.3376
+ - stop: 0.1163
+ - jump: 0.0454
+ - help: 0.0381
+ - see: 0.0362
+
+Question: On a hot summer day, I love to eat [MASK].
+Fine-Tuned Model Predictions:
+ - it: 0.0772
+ - sweets: 0.0642
+ - candy: 0.0618
+ - fruits: 0.0580
+ - fish: 0.0489
+
+Original Model Predictions:
+ - it: 0.0938
+ - fish: 0.0689
+ - lunch: 0.0579
+ - here: 0.0548
+ - something: 0.0545
+
+Question: My favorite story begins with [MASK].
+Fine-Tuned Model Predictions:
+ - oliver: 0.3239
+ - diana: 0.1161
+ - chris: 0.0311
+ - mr: 0.0282
+ - cinderella: 0.0169
+
+Original Model Predictions:
+ - you: 0.1016
+ - me: 0.0362
+ - him: 0.0280
+ - this: 0.0262
+ - her: 0.0241
+
+Question: In school, we learn about [MASK].
+Fine-Tuned Model Predictions:
+ - art: 0.0654
+ - magic: 0.0639
+ - animals: 0.0555
+ - colors: 0.0437
+ - science: 0.0417
+
+Original Model Predictions:
+ - it: 0.0669
+ - love: 0.0335
+ - life: 0.0292
+ - ourselves: 0.0254
+ - them: 0.0239
+
+Question: When you're celebrating a birthday, you usually have [MASK].
+Fine-Tuned Model Predictions:
+ - fun: 0.6171
+ - one: 0.0416
+ - presents: 0.0360
+ - friends: 0.0245
+ - to: 0.0226
+
+Original Model Predictions:
+ - one: 0.3320
+ - fun: 0.1011
+ - it: 0.0905
+ - to: 0.0316
+ - two: 0.0255

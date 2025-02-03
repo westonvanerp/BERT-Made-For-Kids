@@ -1,0 +1,5 @@
+TO GENERATE RESULTS OF YOUR OWN
+1) Use youtube_watchlater script to add videos to watch later
+2) Use youtube_transcript_grab to grab transcripts from videos in watch later playlist
+3) Save transcript file
+4) Use upload_and_compare_pretrained to process transcript file and view results
